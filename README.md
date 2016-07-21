@@ -1,4 +1,5 @@
 Code for my paper [Manifold Visualization via Short Walks](https://www.cs.helsinki.fi/u/ttonteri/pub/eurovis2016.pdf)
+
 There are 4 folders containing files for 4 different methods:
 isomap, MiniMap, tSNE and Isomap+sammon mapping.
 
